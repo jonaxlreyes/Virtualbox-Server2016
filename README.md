@@ -21,7 +21,13 @@ Launch the VirtualBox: <br/>
 Install Windows 10 Server 2016:  <br/>
 <img src="https://i.imgur.com/cEEAukB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/G1JIzpW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Windows 10 Server 2016:  <br/>
 <img src="https://i.imgur.com/YERSaCm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
 
 
 

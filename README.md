@@ -10,8 +10,7 @@ I will install Oracle VirtualBox, a powerful virtualization software that allows
 <h2>Utilities Used</h2>
 
 - <b>VirtualBox</b> 
-- <b>Microsoft Evaluatio</b>
-- <b>Microsoft Windows 10 iso</b> 
+
 
 
 <p align="center">
